@@ -130,6 +130,7 @@
 
 .style-classic {
 	.section__title {
+        text-align: left;
 		&:after {
 			background-color: $color-classic-sect-underline;
 			content: "";
